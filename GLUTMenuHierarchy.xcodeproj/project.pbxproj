@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		272D31951C9052D8009148DC /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = demo.gif; path = GLUTMenuHierarchy/demo.gif; sourceTree = "<group>"; };
 		27CA1A1E1C85950B009A0EE6 /* GLUTMenuHierarchy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GLUTMenuHierarchy; sourceTree = BUILT_PRODUCTS_DIR; };
 		27CA1A281C85959D009A0EE6 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		27CA1A291C85959D009A0EE6 /* View.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = View.c; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 		27CA1A151C85950B009A0EE6 = {
 			isa = PBXGroup;
 			children = (
+				272D31951C9052D8009148DC /* demo.gif */,
 				27CA1A201C85950B009A0EE6 /* GLUTMenuHierarchy */,
 				27CA1A1F1C85950B009A0EE6 /* Products */,
 			);
@@ -243,6 +245,7 @@
 				27CA1A271C85950B009A0EE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
